@@ -1,18 +1,18 @@
-# <img src="https://github.com/user-attachments/assets/b8249113-d515-4c91-a12a-f134813614e8" height="60" valign="middle" alt="Safe{Wallet}" style="background: #fff; padding: 20px; margin: 0 -20px" />
+# <img src="https://github.com/user-attachments/assets/b8249113-d515-4c91-a12a-f134813614e8" height="60" valign="middle" alt="DSafe" style="background: #fff; padding: 20px; margin: 0 -20px" />
 
-# Safe{Wallet} monorepo
+# DSafe monorepo
 
-🌐 [Safe{Wallet} web app](/apps/web/README.md) ・ 📱 [Safe{Wallet} mobile app](/apps/mobile/README.md)
+🌐 [DSafe web app](/apps/web/README.md) ・ 📱 [DSafe mobile app](/apps/mobile/README.md)
 
 ## Overview
 
-Welcome to the Safe{Wallet} monorepo! This repository houses multiple applications and packages managed under a unified
+Welcome to the DSafe monorepo! This repository houses multiple applications and packages managed under a unified
 structure using Yarn Workspaces. The monorepo setup simplifies dependency management and ensures consistent development
 practices across projects.
 
 ### Key components
 
-- **apps/**: Contains application projects (e.g., `mobile` for the Safe{Wallet} mobile app).
+- **apps/**: Contains application projects (e.g., `mobile` for the DSafe mobile app).
 - **packages/**: Shared libraries and utilities.
 - **config/**: Configuration files for the monorepo.
 

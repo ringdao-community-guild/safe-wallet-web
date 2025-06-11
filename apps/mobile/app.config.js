@@ -4,7 +4,7 @@ const IS_DEV = process.env.APP_VARIANT === 'development'
 const appleDevTeamId = 'MXRS32BBL4'
 
 const config = {
-  name: IS_DEV ? 'Safe{Wallet} MVP - Development' : 'Safe{Wallet} MVP',
+  name: IS_DEV ? 'DSafe MVP - Development' : 'DSafe MVP',
   slug: 'safe-mobileapp',
   owner: 'safeglobal',
   version: '1.0.0',
@@ -94,7 +94,7 @@ const config = {
     [
       'react-native-vision-camera',
       {
-        cameraPermissionText: 'Safe{Wallet} needs access to your Camera to scan QR Codes.',
+        cameraPermissionText: 'DSafe needs access to your Camera to scan QR Codes.',
         enableCodeScanner: true,
         enableLocation: false,
       },
