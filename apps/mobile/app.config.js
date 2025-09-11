@@ -101,7 +101,7 @@ const config = {
     [
       'react-native-vision-camera',
       {
-        cameraPermissionText: 'Safe{Wallet} needs access to your Camera to scan QR Codes.',
+        cameraPermissionText: 'DSafe needs access to your Camera to scan QR Codes.',
         enableCodeScanner: true,
         enableLocation: false,
       },
