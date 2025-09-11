@@ -45,7 +45,7 @@ Here's the list of all the environment variables:
 
 | Env variable                                 | Description                                                                                                                                                                                   |
 | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `NEXT_PUBLIC_BRAND_NAME`                     | The name of the app, defaults to "Wallet fork"                                                                                                                                                |
+| `NEXT_PUBLIC_BRAND_NAME`                     | The name of the app, defaults to "DSafe"                                                                                                                                                |
 | `NEXT_PUBLIC_BRAND_LOGO`                     | The URL of the app logo displayed in the header                                                                                                                                               |
 | `NEXT_PUBLIC_INFURA_TOKEN` ❕                | [Infura](https://docs.infura.io/infura/networks/ethereum/how-to/secure-a-project/project-id) RPC API token. **Required for wallet connection and transacting!**                               |
 | `NEXT_PUBLIC_SAFE_APPS_INFURA_TOKEN`         | Infura token for Safe Apps, falls back to `NEXT_PUBLIC_INFURA_TOKEN`                                                                                                                          |
